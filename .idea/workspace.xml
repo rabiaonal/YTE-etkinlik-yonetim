@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac16854b-d8c1-4fc0-a754-f2314a0e6299" name="Default Changelist" comment="first">
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/AdminEtkinlik.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/Dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/Etkinlik.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/EtkinlikContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/EtkinlikTipleri.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/Etkinlikler.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/Etkinlikler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/frontend" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fBcj3sHAmr2GvYsgJLetY7Bmfc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="yte.etkinlikyonetim.validator" />
+      <recent name="yte.etkinlikyonetim.login" />
+      <recent name="yte.etkinlikyonetim.login.dto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EtkinlikYonetimApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="etkinlik-yonetim" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="yte.etkinlikyonetim.EtkinlikYonetimApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac16854b-d8c1-4fc0-a754-f2314a0e6299" name="Default Changelist" comment="" />
+      <created>1595695062538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595695062538</updated>
+      <workItem from="1595695094635" duration="16365000" />
+      <workItem from="1595852935904" duration="7337000" />
+      <workItem from="1595929702507" duration="21458000" />
+      <workItem from="1596017001226" duration="14371000" />
+      <workItem from="1596099931867" duration="16581000" />
+      <workItem from="1596221387040" duration="2921000" />
+      <workItem from="1596273423788" duration="17852000" />
+      <workItem from="1596361786401" duration="22609000" />
+      <workItem from="1596446819842" duration="40992000" />
+      <workItem from="1596532203514" duration="43172000" />
+      <workItem from="1596607884539" duration="3082000" />
+      <workItem from="1599124096829" duration="149000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1595966791991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595966792010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="260" key="#Assign_Data_Sources" timestamp="1596370615372">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="582" y="260" key="#Assign_Data_Sources/0.0.1366.738@0.0.1366.738" timestamp="1596370615372" />
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595757982795">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1595757982795" />
+    <state x="792" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1596494178666">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="792" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1596494178666" />
+    <state x="785" y="145" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1595940810416">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="785" y="145" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1595940810416" />
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596609387965">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1596609387965" />
+    <state x="453" y="124" key="FileChooserDialogImpl" timestamp="1596105084717">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="453" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1596105084717" />
+    <state x="545" y="267" key="Github.ShareDialog" timestamp="1595965312844">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="545" y="267" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1595965312844" />
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1596613569250">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1596613569250" />
+    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1596613569250">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1596613569250" />
+    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1596613569250">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1596613569250" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1596613569250">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1596613569250" />
+    <state width="1323" height="184" key="GridCell.Tab.1.bottom" timestamp="1596613569251">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1596613569251" />
+    <state width="1323" height="184" key="GridCell.Tab.1.center" timestamp="1596613569251">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1596613569251" />
+    <state width="1323" height="184" key="GridCell.Tab.1.left" timestamp="1596613569251">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1596613569251" />
+    <state width="1323" height="184" key="GridCell.Tab.1.right" timestamp="1596613569251">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1596613569251" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1596105874988">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1596105874988" />
+    <state x="377" y="261" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596105870931">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="377" y="261" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1596105870931" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1595756324256">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1595756324256" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1596368936739">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1596368936739" />
+  </component>
+</project>

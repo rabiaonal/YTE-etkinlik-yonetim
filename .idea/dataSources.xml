@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="yte-etkinlik-yonetim@localhost" uuid="7e7a9d70-19be-464c-9c33-e7fefc00bb62">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/yte-etkinlik-yonetim</jdbc-url>
+    </data-source>
+  </component>
+</project>
